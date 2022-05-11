@@ -4,6 +4,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hola mundo, bienvenidos!" << endl;
+    cout << "Hola mundo, bienvenidos bedu!" << endl;
     return 0;
 }
